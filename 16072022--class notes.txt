@@ -1,0 +1,248 @@
+16-07-2022:
+DevOps:
+
+module :git
+
+4hours for each tool + 
+20 questions +
+
+10 to 15 min ----
+40% Know
+30 % ==
+
+30 :case
+--------------
+
+Devops : applications 
+
+amazon app ,flipkart -- apps will be created --based on the requirement of customer/client
+project manager -
+
+he will assign few team members to write the code for that applciation 
+
+10 developers -- 10 files ----4 developers---40 files 
+
+10 days --100 files 
+
+create one account -- all the developers , they need to upload the code -- no file will be missed 
+
+100 files -- 
+
+10 developers -- they resigned -- 
+
+source code -- repository 
+
+Subversion 
+
+perforce -ibm
+
+github --microsoft
+
+gitlab-- gitlab--
+
+code commit --aws 
+------
+git +github
+
+=====================
+what is git tool 
+
+opensource : free 
+
+Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently.
+ Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development
+ 
+ 
+ https://git-scm.com/
+
+----------------------------
+1. hardware + screen +operating system
+
+operating system:
+
+Bill gates -- windows -virus 
+
+Linux - no virus --anti- virus -- Linus torvald  
+-------------------------------------------
+andriod ---5k -- touch screen --- linux server 
+
+apple mobile --- 
+
+windows 
+
+
+-------------------------------------------
+Ios -- Jobs -- macbook 
+
+solaris 
+
+--------------------------------------------------------
+
+DevOps -- secured based --
+
+servers
+application are build it linux 
+
+Linus torval -- Linux ,git 
+
+GUI -- Graphical User interface 
+
+CMD --command line (Linux tools )
+-----------------------------------------
+
+create a folder -- make directory ----mkdir 
+
+deleting of a folder ---removing of directory rm -rf (remove recursivily force )
+
+
+clearing of screen --- clear 
+
+mkdir Devops
+
+mkdir -p devops/auto (p : parent )
+
+mkdir -v Devops (v :verbose ): words
+
+----------------
+listing of folders  --- ls
+
+
+ls -l
+
+ls -al 
+---------------------
+moving inside  of a directory 
+
+chaging direcotry:  cd 
+
+pwd : present working directory : 
+
+cd folder_name 
+
+cd ..----------
+
+--------------------
+
+file & folder 
+
+
+rm file_name
+
+rm -rf folder_name 
+---------------------
+1.mkdir
+2.ls
+3.touch
+4.clear
+5.pwd 
+6.rm 
+7.rm-rf 
+8.Cd 
+-----------------------
+step:1 git init 
+step2: touch login.java logout.java
+3. git status 
+4.git add 
+5.git status
+6.git commit -m"adding of java files "
+7.git log 
+
+
+
+2 commands -- 30 ===60 
+
+3 months ==180 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

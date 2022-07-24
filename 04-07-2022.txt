@@ -1,0 +1,550 @@
+daily ---Mobile app -- Milk -1Ltr 
+
+10pm --Ola/uber app 
+
+12pm --Google pay
+
+4pm  --Amazon /flipkart
+
+6pm --daily use , daily expenses
+
+11pm -- times of india 
+
+app 
+
+
+----------------
+
+facebook ,
+
+
+app 
+
+application 
+
+
+----------------
+
+Mobile -- Android /MSoffice / Apple-ios 
+
+95 ----andriod ---google 
+
+---------------------------
+
+
+
+google photos
+contacts 
+
+chat 
+
+handouts
+
+--------------------
+
+Internet ---Mobile ---apps -- amazon/flipkart/googlepay/phonepay /yonosbi 
+
+-------------------
+
+in a life No -- mobile --No internet --No apps ----No DevOps--------------------- 
+
+quickride , 
+
+ola driver 
+
+amazon business app 
+
+learning apps ---
+
+
+Linkidin , Naukri
+
+----------
+
+Salary of a DevOps resource :
+
+DevOps (Build and release engineer )
+
+Qualifiaction :
+
+Btech/Bsc comp	/Bsc -------
+
+Bpharmacy/Mpharmacy
+
+--------------
+age :22 years 
+
+-----------------
+Salary :
+1st ---5lac ---42k
+4lac
+
+2years -- 6lac
+
+2months Notice period --- 1 months 
+
+2months -- 20 interview --- 4offer --------1offer 
+
+Hard . like work, learned many tools 
+
+1offer -- 7.8 lac
+
+2nd offer -- 8,5 lac
+
+3rd offer ---10lac
+
+4th offer ---12 lac 
+
+4 ---8lac 
+
+6--23 lac
+-------------------------------
+
+Coding :
+
+no coding -- no languge 
+
+Whatsapp 
+
+old 
+
+configuration of whatsapp
+managment of fb/wp
+
+
+
+==================================
+switching 
+
+DevOps with AWS 
+
+
+qa /oracle /db /sap/
+
+
+Money --salary -- 
+
+
+run technolgy ---consinetly --learning 
+
+2hr -learning -- 
+
+5lac --6.5lac  
+
+7years ---
+
+
+---------------------------
+
+Duration : 2 months -- 15 days -- 15days 
+
+
+sivag7447@gamil.com
+9110736762   5hr
+
+after 9pm --- 
+
+------
+Real work of DevOps :
+---------------------
+5min --break -- 6:50pm 
+
+
+after 9pm --- 
+
+sat/sun6pm --8pm 
+
+-------------------------
+
+
+Mobile -- andriod software -- gmail account --- playstore --- fb/wp/amazon/flipkart/googlepay/phonepay
+
+---
+
+playstore ----
+
+removing / 
+
+google playstore 
+
+
+
+
+-------------------
+Client (customer ) -Axis bank --desktop appl/ Mobile application/ offline 
+
+
+
+Project manager -- developer lead ( )
+
+bank appication   --- login /payment /logout 
+
+login team  --- 5 developers 
+
+Payment team
+logout team 
+
+
+
+=====================
+
+Developers:
+
+5 developer ---code is ready (Java, HTML,css,Python ,angular ,etc.....)
+
+
+1dev --10 file   *5 ==50 files 
+
+100 days   ---5000 files 
+
+
+=========
+
+AXIS bank folder --- 5000 files ====
+
+Build the code and release to customer ====Build and release engineer  
+
+
+collect all the files -- zip 
+
+
+deploy Version 1 in to server --- login appliacation -- username /
+
+customer will ask devops engineer ---Ticket -- 
+
+
+devops ---devloper lead -- developer (check the code ) --correct the code -- test the code in his local machine---
+
+---
+
+Zip/ package --- testing enviorment --- testers --- Version 2
+
+
+
+tester --- issues 
+
+-----------------
+Customer/Client
+Project manger 
+
+Developer lead 
+
+Developer 
+
+Test manager ---tester
+
++++++++++++++++
+server-- computer --- Operation manager 
+==============================
+
+Dev elopement ----Operations ==============DEV++++OPS====DevOps
+
+
+-------------------------------------
+
+Toolset : 
+
+Desktop --- windows
+
+Mobile -- andriod operating system------microsoft 
+
+
+Android is Linux machine 
+
+
+severs --Linux 
+
+listing of files  --- ls
+
+present working directoru ---pwd
+
+keeping of linux commands in one file ---- --------running of file ---shell script ---
+------------------------
+1st level of devops /basic devops 
+Client /customer --- write requirements  ----Confluence tool 
+project manager -- take a meeting   --- scrum meeting /standup meeting -- MOM-- confluence Tool 
+
+devlead -- developers 
+
+
+devlead create tickets -- 3 tickets (login ,logut ,payment )----Jira bug tracking tools ----Jira 
+
+
+developers 	code ---jave code  ---eclipse IDE  
+
+java -- compiler - .class   ------  Maven tool 
+
+---zip file  --- Jenkins /bamboo --- Ci/CD tool 
+
+code quality ----SOnarQube
+
+deploy server  --tomcat applciation 
+
+---------------------
+2nd level of devops /Container devops 
+
+
+10 resoruce -- 10 laptop 
+
+Docker -- create a laptops 
+
+Docker 
+
+---------------
+3rd level cloud DevOps 
+
+Amazon --- AWS devops
+
+Microsoft -- azure devops
+
+Google ---gcp devops 
+
+
+------
+.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,146 @@
+
+
+
+git 
+
+source code repository
+
+Version (1 2 3 4 5 6)control system
+
+-------------
+
+Whatsapp
+
+code ---production code --live code (freezed )---v1
+
+
+code -- testing code --release code --v2
+
+
+developement code- --v3
+
+
+feature code ---
+
+
+------------------------
+
+Mango tree
+
+----roots/trunk ---- master (managers ,Devops )--v22,----
+
+branches --- relase branch -- fruites---v23,v24
+
+short branch -- develop branch ---dev lead
+
+
+short branhc -- feature branch ---devlopers 
+
+
+mango fruits --- box --- Taging ----selling //
+
+--------------------------
+
+
+Braching pattern of git 
+
+--------------------------
+Master --- Production code --live code --- mgr, devops 
+
+Release --- qualifiaction/release branch
+
+
+devlop --- devlopement server / dev branch 
+
+
+feature branch 
+------------------------
+
+
+5 devlopers  ---- 5 feature branch --- 3 f branch ---merge to develop 
+
+
+feature to develop merge ---- dev lead  --- devlopement server --- testing --- testers -- success 
+
+
+------------
+
+develop to release --- qualifiaction server --- testers ---testing -- success 
+
+
+-----
+
+release to master ------ production code ---- v22 -(hotfix branch )-- roll back to the v21,----v22  
+-------------------------------
+
+Git structure :
+
+
+5 developers ---5 laptop 
+
+
+1    2   3    4   5 
+
+-------------------------
+6am ---5pm ----
+
+1--- two files (Local workspace )  --- staging area 
+
+adding ---   staging :   git stauts --- red --- not cover under git 
+
+green --- comes under git 
+
+
+git commit -- ===========label (who ,when, what ) -- local repasitory ---- (you )
+
+
+5pm ---  git push -- browser -- central repository (any one )
+
+
+
+Local workspace  ---- git add ---staging area --- git commit ---local repasitory --- git push --- central repasitory
+
+
+----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+removal of files and git:
+
+git fetch : 
+
+central repo to local git repo -----sync
+
+git pull :
+
+central repo to local workspace -- sync
+
+
+merge startagy:
+
+feature -- develop 
+
+develop -release 
+
+release --master 
+-------------------
+
+remotes
+
+-------
+
+
+
+To remove a remote:
+
+git remote remove origin
+
+
+To add a remote:
+
+git remote add origin yourRemoteUrl
+
+
+and finally
+
+git push -u origin master
+
+7:10 , I will be back
+
+
+git : distributed version control system
+
+
+central repo
+
+local repo
+staging 
+
+local workspace  (intrent not required )
+
+
+svn : subversion : centralized version control system
+
+(with out internet it won't work)
+1. central repo
+
+2. local repo + local workspace 

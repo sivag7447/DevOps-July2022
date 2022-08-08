@@ -1,0 +1,69 @@
+07-08-2022:
+
+Maven--Part 2
+
+
+
+1.devloper point of view  -- git , github ,sourcetree
+
+compilation /package --maven package 
+
+2. mvn deploy --- we required server 
+
+
+
+3.server (tomcat)--jar file inside of server -- you can able ot see it from the browser 
+--------------------
+port : 8080
+
+port:8443
+
+
+sso ---single sign on 
+
+
+Console 
+
+transitive depen
+
+multi module pOm
+
+
+parent pom ,
+
+
+9110736762
+
+sivag7447@gmail.com
+
+setting.xml file --- mvn clean
+
+sso https --- VPN --- https=false 
+
+
+
+
+----------------------
+
+
+
+4.as of now --- Jenkins
+
+git commit1/2 -- maven --- tomcat --- publish ---- web application 
+
+
+7:07PM
+
+
+Ant tool --- Maven tool ---Gradle (Build tool) --- 5 
+
+build.xml --- document
+
+-------
+
+Maven -- (80%)
+
+
+-----
+
+Gradle -- wrapper  (20)

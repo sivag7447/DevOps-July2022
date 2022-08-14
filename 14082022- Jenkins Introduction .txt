@@ -1,0 +1,53 @@
+14-08-2022:
+--------------------
+
+
+DevopS -- accountablity 
+
+CI+CD
+
+
+Contiunuous integration : (Open source ) /Manual 
+
+source code management : GIT 
+
+git bash, source tree , git hub 
+
+Code packaging -- Maven
+
+server point of view : Tomcat 
+-------------------------------------
+Automatic :/ with out any manuall effort 
+
+Jenkins 
+
+Jenkins is an open source automation server. 
+
+It helps automate the parts of software development related to 
+building,testing, and deploying, facilitating continuous integration and continuous delivery.
+
+It is a server-based system that runs in servlet containers such as Apache Tomcat
+
+
+
+Continuous Integration and Continuous Delivery
+As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.
+
+Easy installation
+Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Linux, macOS and other Unix-like operating systems.
+
+Easy configuration
+Jenkins can be easily set up and configured via its web interface, which includes on-the-fly error checks and built-in help.
+
+Plugins
+With hundreds of plugins in the Update Center, Jenkins integrates with practically every tool in the continuous integration and continuous delivery toolchain.
+
+Extensible
+Jenkins can be extended via its plugin architecture, providing nearly infinite possibilities for what Jenkins can do.
+
+Distributed
+=========================
+
+if a change is happen in local 
+
+developer ---git ----- git hub --- jenkins --- build --- maven clean/compile --- pakcage -----jar package ------continuous intergration 
